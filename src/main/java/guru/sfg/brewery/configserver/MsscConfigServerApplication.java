@@ -11,5 +11,4 @@ public class MsscConfigServerApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MsscConfigServerApplication.class, args);
 	}
-
 }
